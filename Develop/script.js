@@ -16,9 +16,12 @@ $(function () {
   // current hour in 24-hour time?
   //
   let timeOfDay = dayjs().hour();
-  for (let i=0;i<24;i++)){
+  for (let i=0;i<24;i++){
     let targetId = "hour-"+i;  
     let blockDiv = $("#"+targetId);
+    blockDiv.removeClass("past")
+    blockDiv.removeClass("present")
+    blockDiv.removeClass("future")
   }
 
 
