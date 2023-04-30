@@ -43,7 +43,8 @@ $(function () {
     let year = dayjs().year();
     let localStorageKey = i+"-"+date+"-"+month+"-"+year
     if(localStorage.getItem(localStorageKey)!=null){  
-      $("#hour-"+i).children("textarea")[0].val(localStorage.getItem(localStorageKey))   
+      let textArea =  $("#hour-"+i).children("textarea")[0]
+      $(textArea).val(localStorage.getItem(localStorageKey))
     }
   }
 
