@@ -35,7 +35,17 @@ $(function () {
   // the values of the corresponding textarea elements. HINT: How can the id
   // attribute of each time-block be used to do this?
   //
+//LOOP24hoursseedatafromlocalstorageanthenpopulateit --> RUN 
 
+  for(let i=0;i<24;i++){
+    let date = dayjs().date();
+    let month = dayjs().month();
+    let year = dayjs().year();
+    let localStorageKey = i+"-"+date+"-"+month+"-"+year
+    if(localStorage.getItem(localStorageKey)!=null){  
+      $("#hour-"+i).children("textarea")[0].val(localStorage.getItem(localStorageKey))   
+    }
+  }
 
 
 
