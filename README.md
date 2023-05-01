@@ -8,6 +8,8 @@ Weekly challenge that is using JQuery to learn how to manipulate DOM elements vi
 - sources 
 - other information 
 ## Illustrations
+H1 Header (Underline)
+=============
 ## Scope of functionalities 
 ## Examples of use
 ## Project status 
