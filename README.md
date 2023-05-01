@@ -23,11 +23,14 @@ This is used to plan your day, one day at a time, and saves the information with
 4) past the link frmo the GitHub Repo and create a new local destination
 5) open Vistual Studio Code 2 and begin editing 
   - open with live server to see local changes being committed, while saving each page, to update the webpage
+ 
+
 6) save changes through these commands
   - git status 
   -  git add -A
   - git commit -m"MESSAGE TO BE COMMITTED"
   - git push
+
 7) the server will be updated to the latest changes where the last step is to publish the webpage application
 
 ## Project status 
