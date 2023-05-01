@@ -17,6 +17,18 @@ This is what the deployed application should look like on the webpage. To first 
 This is used to plan your day, one day at a time, and saves the information within 24 hours. You can edit, save, and check the current time of the day. (denoted by RED for current hour.)
 
 ### download instructions
+1) open Visual Studio Code 2 
+2) open GitHub and launch my code and click git clone HTTPS
+3) locate git clone option on the main page
+4) past the link frmo the GitHub Repo and create a new local destination
+5) open Vistual Studio Code 2 and begin editing 
+  a) open with live server to see local changes being committed, while saving each page, to update the webpage
+6) save changes through these commands
+  a) git status 
+  b) git add -A
+  c) git commit -m"MESSAGE TO BE COMMITTED"
+  d) git push
+7) the server will be updated to the latest changes where the last step is to publish the webpage application
 
 ## Project status 
 The project status is completed where the only updates to be follwoed will be for the CSS to change how the page looks like where these changes should not impact functionality of the web application.
