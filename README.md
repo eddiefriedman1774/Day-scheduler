@@ -13,7 +13,9 @@ This is what the deployed application should look like on the webpage. To first 
 
 ## Scope of functionalities 
 ## Examples of use
+This is used to plan your day, one day at a time, and saves the information within 24 hours. You can edit, save, and check the current time of the day. (denoted by RED for current hour.)
 ## Project status 
+The project status is completed where the only updates to be follwoed will be for the CSS to change how the page looks like where these changes should not impact functionality of the web application.
 ## Sources
 I used HTML, JavaScript, and CSS to style, change, and edit the behavior of the webpages.
 I would like to thank Ethan Hinds for helping me understand JavaScript better and how use JQuery and its logic.
