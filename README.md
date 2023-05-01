@@ -4,6 +4,7 @@ Weekly challenge that is using JQuery to learn how to manipulate DOM elements vi
 - illustrations
 - scope of funciontalities
 - example of use
+  - download instructions
 - project status
 - sources 
 - other information 
@@ -14,6 +15,9 @@ This is what the deployed application should look like on the webpage. To first 
 ## Scope of functionalities 
 ## Examples of use
 This is used to plan your day, one day at a time, and saves the information within 24 hours. You can edit, save, and check the current time of the day. (denoted by RED for current hour.)
+
+### download instructions
+
 ## Project status 
 The project status is completed where the only updates to be follwoed will be for the CSS to change how the page looks like where these changes should not impact functionality of the web application.
 ## Sources
