@@ -28,7 +28,7 @@ This is used to plan your day, one day at a time, and saves the information with
 6) save changes through these commands
   - git status 
   -  git add -A
-  - git commit -m"MESSAGE TO BE COMMITTED"
+  - git commit -m "MESSAGE TO BE COMMITTED"
   - git push
 
 7) the server will be updated to the latest changes where the last step is to publish the webpage application
