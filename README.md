@@ -15,4 +15,6 @@ This is what the deployed application should look like on the webpage. To first 
 ## Examples of use
 ## Project status 
 ## Sources
+I used HTML, JavaScript, and CSS to style, change, and edit the behavior of the webpages.
+I would like to thank Ethan Hinds for helping me understand JavaScript better and how use JQuery and its logic.
 ## Other information
