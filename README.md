@@ -37,7 +37,7 @@ This is used to plan your day, one day at a time, and saves the information with
 The project status is completed where the only updates to be follwoed will be for the CSS to change how the page looks like where these changes should not impact functionality of the web application.
 ## Sources
 I used HTML, JavaScript, and CSS to style, change, and edit the behavior of the webpages.
-I would like to thank Ethan Hinds for helping me understand JavaScript better and how use JQuery and its logic.
+I would like to thank Ethan Hinds for helping me understand JavaScript better and how to use JQuery and its logic.
 ## Other information
 - how to install Visual Studio Code: https://code.visualstudio.com/download
 
