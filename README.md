@@ -39,3 +39,5 @@ The project status is completed where the only updates to be follwoed will be fo
 I used HTML, JavaScript, and CSS to style, change, and edit the behavior of the webpages.
 I would like to thank Ethan Hinds for helping me understand JavaScript better and how use JQuery and its logic.
 ## Other information
+- how to install Visual Studio Code: https://code.visualstudio.com/download
+
