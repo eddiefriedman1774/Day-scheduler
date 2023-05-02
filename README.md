@@ -40,4 +40,4 @@ I used HTML, JavaScript, and CSS to style, change, and edit the behavior of the 
 I would like to thank Ethan Hinds for helping me understand JavaScript better and how to use JQuery and its logic.
 ## Other information
 - how to install Visual Studio Code: https://code.visualstudio.com/download
-
+- link to deployed application: 
